@@ -4,7 +4,7 @@
 
 Main languages Python and SQL
 
-Learning Kotlin
+Learning Kotlin with Android Studio
 
 <!---
 herissonbleu/herissonbleu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
