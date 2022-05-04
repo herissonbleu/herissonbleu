@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @herissonbleu
-- 👀 I’m interested in medical data integration, ML, data augmentation, cybersecurity...
+- 👀 I’m interested in medical data integration, ML, data augmentation,software development, cybersecurity...
 - 🌱 I’m currently working with medical data integration and machine learning modelling
 
 Main languages Python and SQL
