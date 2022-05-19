@@ -4,7 +4,7 @@
 
 Main languages Python and SQL
 
-Other language: Powershell, Bash
+Other languages: Powershell, Bash
 
 Learning Kotlin with Android Studio
 
